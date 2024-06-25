@@ -8,7 +8,7 @@ function App() {
           <code>Chicken door status:</code> OPEN
         </p>
 
-        <p>Weather status: CLEAR AND SUNNY</p>
+        <p>Weather status: OVERCAST</p>
       </header>
     </div>
   );
