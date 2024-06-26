@@ -1,5 +1,5 @@
 const childProcess = require('child_process');
-const pythonProcess = childProcess.spawn('python', ['your_python_script.py']);
+const pythonProcess = childProcess.spawn('python', ['weather.py']);
 pythonProcess.stdout.on('data', (data) => {
  // Use the data in your JavaScript code
 });
